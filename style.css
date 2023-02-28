@@ -98,11 +98,21 @@ padding: 20px 150px 20px;
 }
 .circle{
     border-radius: 50%;
-    border: solid cornsilk;
+    border: solid #ffffff;
     width: 350px;
     height: 300px;
     margin: 20px;
     padding: 40px;
     text-align: center;
-    background-color: antiquewhite;
+    background-color: #ffffff;
+}
+.word{
+    background-color: #002d3d;
+    width: 80%;
+    height: 70px;
+    padding: 4px;
+    color: #ffe5d6;
+}
+.button1{
+    text-align: center;
 }
