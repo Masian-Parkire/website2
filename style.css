@@ -1,0 +1,108 @@
+#navigation ul li{
+    list-style-type: none;
+    display: inline-block;
+    justify-content: right;
+    padding: 0px 15px 0px;
+}
+#navi ul li{
+list-style-type: none;
+display: inline-block;
+justify-content: right;
+padding: 20px 150px 20px;
+}
+.kitchen{
+    width: 250px;
+    height: 250px;
+    margin-left: 10%;
+}
+.ceil{
+    width: 250px;
+    height: 250px;
+    margin-left: 10%;
+}
+.stair{
+    width: 250px;
+    height: 250px;
+    margin-left: 10%;
+}
+.rustic{
+    width: 250px;
+    height: 250px;
+    margin-left: 10%;
+}
+.wall{
+    width: 250px;
+    height: 250px;
+    margin-left: 10%;
+}
+.chair{
+    width: 250px;
+    height: 250px;
+    margin-left: 10%;
+}
+#navs ul li{
+    list-style-type: none;
+    display: inline-block;
+    justify-content: right;
+    padding: 20px 120px 20px;
+    color: bisque;
+}
+.plant{
+    width: 250px;
+    height: 250px;
+    margin-left: 10%;
+}
+.plant{
+    width: 250px;
+    height: 250px;
+    margin-left: 10%;  
+    float: right;
+    margin-right: 70px;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-image: url(/image3.jpg);
+    background-size: cover;
+}
+.super{
+    background-color: #002d3d;
+}
+.sian7{
+    background-color: #ffe5d6;
+    padding: 20px 0px 20px 0px;
+}
+.foot{
+    justify-content: space-between;
+    display: flex;
+    background-color: #002d3d;
+    color: antiquewhite;
+}
+.sian2{
+    text-align: center;
+    padding-top: 15px;
+}
+.mine{
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+}
+.sian8{
+    margin-left: 20px;
+}
+.sian9{
+    margin-left: 20px;
+}
+.ideas{
+    margin-left: 20px;
+}
+.circle{
+    border-radius: 50%;
+    border: solid cornsilk;
+    width: 350px;
+    height: 300px;
+    margin: 20px;
+    padding: 40px;
+    text-align: center;
+    background-color: antiquewhite;
+}
